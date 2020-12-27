@@ -45,7 +45,7 @@ to determine your collection calendar, and configure it as below:
 ```
 {
   module: 'MMM-MyWastePickup',
-  position: 'top_left',
+  position: 'middle',
   header: 'My Waste Collection',
   config: {
     collectionCalendar: 'Tuesday1'
